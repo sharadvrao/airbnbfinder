@@ -9,3 +9,5 @@
 <p align="center">
   <img src="https://github.com/sharadvrao/apartment_recommender/blob/master/model.png">
 </p>
+
+**What’s Next?**  Recommendation engine performance is inherently challenging to evaluate. Further refinement of the utilized distance metrics through an ad-hoc process of evaluation by a multitude of users is a proposed method. The ultimate goal of the platform is to scale the technology to the property rental market at large.
