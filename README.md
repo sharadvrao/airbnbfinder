@@ -6,4 +6,6 @@
 
 **Modeling** At the heart of AirbnbFinder is a content based recommendation engine. Preferences are quantified then used to construct a cosine similarity-based measure of the 20 most alike properties. The user is given the opportunity to select preferred properties and this information is used to further refine the search results.   
 
-<div style="text-align:center"><img src ="https://github.com/sharadvrao/apartment_recommender/blob/master/model.png" /></div>
+<p align="center">
+  <img src="https://github.com/sharadvrao/apartment_recommender/blob/master/model.png">
+</p>
